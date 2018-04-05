@@ -29,7 +29,7 @@ final class Time
 
     const WEEK = 604800;
 
-    const MONTH = 2592000;
+    const MONTH = 2678400;
 
     const YEAR = 31536000;
 }
